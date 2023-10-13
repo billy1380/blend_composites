@@ -1,2 +1,2 @@
 # Blend Composites
-Dart port
+Dart port of java image compositing code by Romain Guy
